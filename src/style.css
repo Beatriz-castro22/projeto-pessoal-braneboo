@@ -1,0 +1,17 @@
+body{
+      font-family:'Gloria Hallelujah', cursive;
+      background: linear-gradient(rgb(255, 255, 255), #b8dba2);
+
+}
+.root{
+    font-family: 'Gloria Hallelujah', cursive;;
+    display: flex;
+    gap: 250px;
+
+}
+
+/*.navBar{
+      display: flex;
+      align-items: center;
+      gap: 10px;
+}*/

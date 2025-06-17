@@ -1,0 +1,24 @@
+.p{
+      background-color: aliceblue;
+      font-family:'Gloria Hallelujah', cursive;
+      border-radius: 15px;
+      height: 35px;
+      border: none;
+      margin-left: 10px;
+}
+.time{
+      
+      box-shadow: 0 4px 10px ;
+      background-color: rgb(205, 235, 186);
+      right: 0;
+      gap: 20px;
+      display: flex;
+      flex-direction: column;
+      width: 500px;
+      height: 450px;
+      border: 2px solid;
+      border-radius: 20px;
+      align-items:center;
+      margin-bottom: 10px;
+
+}
